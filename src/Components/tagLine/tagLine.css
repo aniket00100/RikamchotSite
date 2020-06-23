@@ -1,0 +1,8 @@
+.text {
+  font: bold;
+  font-size: 3em;
+  color: azure;
+  font-family: "Notable", sans-serif;
+  text-align: center;
+  padding: 4%;
+}

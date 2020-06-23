@@ -1,0 +1,18 @@
+.introText {
+  text-align: justify;
+  color: white;
+  font-size: large;
+  /* display: inline-block; */
+  font-size: 1.5em;
+}
+
+.imgIntro {
+  width: 100%;
+  /* display: inline-block; */
+}
+
+.divSegment {
+  padding: 4%;
+  width: 100%;
+  height: auto;
+}

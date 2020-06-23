@@ -1,12 +1,19 @@
-import React from 'react';
+import React from "react";
 
+import MenuBar from "./Components/menu/menuBar";
+import TagLine from "./Components/tagLine/tagLine";
+import Intro from "./Components/intro/intro";
+import SpecialPowers from "./Components/specialPowers/specialPowers";
 
-function App() {
+const app = () => {
   return (
     <div>
-      This is from App.js
+      <MenuBar />
+      <TagLine />
+      <Intro />
+      <SpecialPowers />
     </div>
   );
-}
+};
 
-export default App;
+export default app;
